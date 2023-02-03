@@ -39,4 +39,4 @@ git branch -M main
 git remote add origin https://github.com/ddrraaccaarriiss/lesson1_27_3.git
 git push - ты главный
 
-1.kk
+#gg
