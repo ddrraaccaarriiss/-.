@@ -54,4 +54,4 @@ if __name__ == '__main__':
 
 
 
-k;l
+git rm -f dz.py
