@@ -13,48 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3b05459-be1d-421e-8b0c-a3b2530fbec9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2 .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorted_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Tурат_27_3_hw3 дополнительное.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/sorted_results.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Турат_27_3_hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Турат_27_3_hw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Турат_27_3_hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Турат_27_3_hw4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Турат_27_3_hw5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Турат_27_3_hw7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/Турат_27_3_hw8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/дз/турат_27_3_hw6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/коды по урокам.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/коды сохранить .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Bolotbek_27-3_hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Bolotbek_27-3_hw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Bolotbek_27-3_hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Bolotbek_27-3hw5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Khalid_27-3_hw3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Khalid_27-3_hw4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Rau2_27-3_hw2 (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Raul3_27-3_hw2 (3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Raul_27-3_hw2 (2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/Raul_27-3_hw2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/ilia_27-3_hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/kamiliya_14-1_hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс жеектек/гласн согл буквы короче неро.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/курс р.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/уроки/lesson_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
