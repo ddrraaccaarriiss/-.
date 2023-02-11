@@ -1,30 +1,30 @@
 class Bank:
-    def __init__(self, name, balanse):
-        self.name = name
-        self.balanse = balanse
+    def __init__(self, _name, _balanse):
+        self._name = _name
+        self._balanse = _balanse
 
     def __str__(self):
-        return f' name is: {self.name}\n' \
-               f'balanse is: {self.balanse}'
+        return f' name is: {self._name}\n' \
+               f'balanse is: {self._balanse}'
 
     def moneyX(self):
         balanse = int(input("Введите сумму: "))
-        self.balanse += balanse
+        self._balanse += balanse
 
     def _kill(self):
-        self.balanse *= 0
+        self._balanse *= 0
 
     def kill(self):
         self._kill()
 
     def __jackpot(self):
-        self.balanse *= 10
+        self._balanse *= 10
 
     def jackpot(self):
         self.__jackpot()
 
-    def _take_balanse(self, other):
-        self.balanse += other.balanse
+    def _balanse_from(self, other):
+        self._balanse += other._balanse
 
 
 aku = Bank("Aku", 100)
@@ -36,15 +36,15 @@ dina = Bank("Dina", 100)
 aku.moneyX()
 print(aku)
 
-sake._kill()
+# sake._kill()
 sake.kill()
 print(sake)
 
 take.jackpot()
-take._Bank__jackpot()
+# take._Bank__jackpot()
 print(take)
 
 
-alina._take_balanse(dina)
+alina._balanse_from(dina)
 print(alina)
 #проверка комита

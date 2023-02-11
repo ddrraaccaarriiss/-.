@@ -2,9 +2,9 @@
 # add() – для операции сложения;
 # sub() – для операции вычитания;
 # mul() – для операции умножения;
-# truediv() – для операции деления.... )
+# truediv() – для операции деления.)
 
-class Culculator:
+class Calculator:
     def __init__(self, num1, num2):
         self.num1 = num1
         self.num2 = num2
@@ -27,14 +27,13 @@ class Culculator:
     def __truediv__(self):
         return print(f'{self.num1} // {self.num2} = {self.num1 // self.num2}')
 
-
-a = Culculator(10,2)
+a = Calculator(10,2)
+print(a)
 a.__add__()
 a.__sub__()
 a.__mul__()
 a.__truediv__()
 
-print(a)
 
 
 
