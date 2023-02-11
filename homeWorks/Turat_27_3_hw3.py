@@ -12,7 +12,7 @@ class Calculator:
     def __str__(self):
         return f'num one  is: {self.num1}\n' \
                f'num two  is: {self.num2}\n' \
-               # f'resalt is {self.resalt}'
+               
     def __add__(self):
         return print(f'{self.num1} + {self.num2} = {self.num1 + self.num2}')
 
