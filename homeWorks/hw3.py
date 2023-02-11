@@ -47,4 +47,4 @@ print(take)
 
 alina._take_balanse(dina)
 print(alina)
-#123
+#проверка комита
