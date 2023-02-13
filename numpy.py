@@ -19,6 +19,11 @@
 
 """ \t """
 # print('second\tl\ti\tn\te')# ostavlaet tabulatsiu tab
+
+# for i in range(10):
+#   print(i, end="\t")
+# 0	1	2	3	4	5	6	7	8	9
+
 """ \\"""
 # print('second l\\i\tn\te')  # tipo posle budet obychnyi slesh
 

@@ -1001,7 +1001,11 @@
 ##3
 # student['hobby'][1] = 'boxing'# izmenayet ot kluchu cherez index
 # print(student)
+
+
+
 ##4 pokaz  ################3
+
 
 # print(student)#1 obychnyi
 # print(student.keys())#2 tolko kluchi
