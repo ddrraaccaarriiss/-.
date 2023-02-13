@@ -186,7 +186,7 @@
       <workItem from="1676269111888" duration="308000" />
       <workItem from="1676281588160" duration="5904000" />
       <workItem from="1676302963550" duration="113000" />
-      <workItem from="1676303096458" duration="938000" />
+      <workItem from="1676303096458" duration="1285000" />
     </task>
     <task id="LOCAL-00001" summary="hw1">
       <created>1675443445173</created>
@@ -267,7 +267,7 @@
     <SUITE FILE_PATH="coverage/cher_py$rrrr.coverage" NAME="rrrr Coverage Results" MODIFIED="1676212105549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hw3_1_py$hw3.coverage" NAME="hw3 Coverage Results" MODIFIED="1676286361339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/OOOP/homeWorks" />
     <SUITE FILE_PATH="coverage/cher_py$import.coverage" NAME="import Coverage Results" MODIFIED="1676211756138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/OOP_py$hw3.coverage" NAME="hw3 Coverage Results" MODIFIED="1676303324977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/OOOP/homeWorks" />
+    <SUITE FILE_PATH="coverage/OOP_py$hw3.coverage" NAME="hw3 Coverage Results" MODIFIED="1676304155338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/OOOP/homeWorks" />
     <SUITE FILE_PATH="coverage/cher_py$_27_3_hw6.coverage" NAME="турат_27_3_hw6 Coverage Results" MODIFIED="1676197606664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/дз" />
     <SUITE FILE_PATH="coverage/hw3_1_py$eksperement.coverage" NAME="eksperement Coverage Results" MODIFIED="1676282671829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/hw3_1_py$OOP.coverage" NAME="OOP Coverage Results" MODIFIED="1676232439293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
